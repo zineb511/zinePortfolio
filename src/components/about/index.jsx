@@ -11,7 +11,7 @@ const AboutDetails = () => {
           }
         >
           <h2 className="  text-xl md:text-2xl text-left w-full capitalize">
-            mmanal EL GHILANI
+            Zineb EL GHILANI
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
           Passionnée par l&apos;univers du design et de la création visuelle, je suis une Motion Designer et Infographiste expérimentée spécialisée dans la conception de contenus dynamiques et innovants. Avec une maîtrise approfondie des outils phares tels qu&apos;Adobe After Effects, Premiere Pro, Illustrator, Photoshop, InDesign et XD, je donne vie à vos idées à travers des animations captivantes, des designs élégants et des expériences visuelles mémorables.
