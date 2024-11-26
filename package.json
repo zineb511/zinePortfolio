@@ -2,13 +2,15 @@
   "name": "nextjs-creative-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zineb511.github.io/zinePortfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export",
+    "deploy": "next build && touch out/.nojekyll && gh-pages -d out"
   },
-  "homepage": "https://zineb511.github.io/zinePortfolio",
   "dependencies": {
     "@emailjs/browser": "^4.2.0",
     "@react-three/drei": "^9.99.5",
